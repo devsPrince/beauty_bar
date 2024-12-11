@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "3499689154",
+    "project_id": "beauty-players-bcad3",
+    "storage_bucket": "beauty-players-bcad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3499689154:android:e1b7a299888f63ae19675b",
+        "android_client_info": {
+          "package_name": "com.beautyplayers.providerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3499689154-n2ii0ehh9lts43cfdu4n16spt1pf8ldm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beautyplayers.providerapp",
+            "certificate_hash": "1094cf5100cc90b11f4a35758329eb8e2545e4ce"
+          }
+        },
+        {
+          "client_id": "3499689154-s198euhv3lfog2tcll3uke588uoqrujf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLDEwLg2s9Bgz0bTODE5PuZBXHh9CWMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3499689154-s198euhv3lfog2tcll3uke588uoqrujf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3499689154:android:36e8c985229d780319675b",
+        "android_client_info": {
+          "package_name": "com.beautyplayers.servicemanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3499689154-2svque4776vsff2er3fbkt4jmp4nrpjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beautyplayers.servicemanapp",
+            "certificate_hash": "1094cf5100cc90b11f4a35758329eb8e2545e4ce"
+          }
+        },
+        {
+          "client_id": "3499689154-s198euhv3lfog2tcll3uke588uoqrujf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLDEwLg2s9Bgz0bTODE5PuZBXHh9CWMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3499689154-s198euhv3lfog2tcll3uke588uoqrujf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3499689154:android:460e0af4bbe1e3f819675b",
+        "android_client_info": {
+          "package_name": "com.beautyplayers.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3499689154-n6hbdiqgrcaag5fn5gnb623ri093o0tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beautyplayers.user",
+            "certificate_hash": "1094cf5100cc90b11f4a35758329eb8e2545e4ce"
+          }
+        },
+        {
+          "client_id": "3499689154-s198euhv3lfog2tcll3uke588uoqrujf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLDEwLg2s9Bgz0bTODE5PuZBXHh9CWMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3499689154-s198euhv3lfog2tcll3uke588uoqrujf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
